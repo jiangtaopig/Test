@@ -38,7 +38,7 @@ public class MainActivity extends Activity implements LoadDataListener{
 		// TODO Auto-generated method stub
 		mDatas = new ArrayList<String>();
 		for(int i=0;i<20;i++){
-			mDatas.add("²âÊÔ"+(i+1));
+			mDatas.add("²âÊÔ   "+(i+1));
 		}
 	}
 
